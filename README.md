@@ -2,7 +2,7 @@
 
 ---![28e33347-7735-4555-ab4c-0e8ca0cc3404](https://github.com/user-attachments/assets/78f789d9-4795-4704-8397-7c6dad390945)
 
-<h1 align="center">🚀 Bienvenido a [Nombre de la Academia] </h1>
+<h1 align="center">🚀 Bienvenido a DeepData Academy </h1>
 <h3 align="center">Formando profesionales en las tecnologías más demandadas del mercado</h3>
 
 
@@ -42,10 +42,10 @@ Ser la comunidad líder en **formación tecnológica en habla hispana**.
 
 ## 🌐 Conéctate con nosotros
 
-[![Web](https://img.shields.io/badge/Web-Academia.com-blue?style=for-the-badge&logo=google-chrome)](https://academia.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=for-the-badge&logo=youtube)](https://youtube.com/academia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Página-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/academia)
-[![Discord](https://img.shields.io/badge/Discord-Comunidad-purple?style=for-the-badge&logo=discord)](https://discord.gg/academia)
+[![Web](https://img.shields.io/badge/Web-Academia.com-blue?style=for-the-badge&logo=google-chrome)](https://deepDataAcademy.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=for-the-badge&logo=youtube)](https://youtube.com/DeepDataAcademy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Página-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/DeepDataAcademy)
+[![Discord](https://img.shields.io/badge/Discord-Comunidad-purple?style=for-the-badge&logo=discord)](https://discord.gg/DeepDataAcademy)
 
 ---
 
@@ -56,4 +56,4 @@ Ser la comunidad líder en **formación tecnológica en habla hispana**.
 
 ---
 
-### ✨ "Aprende hoy lo que te abrirá las puertas mañana" ✨
+### ✨ "Aprende hoy lo que te abrirá las puertas al mañana" ✨
