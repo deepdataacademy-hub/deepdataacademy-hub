@@ -1,10 +1,11 @@
 <!-- Banner principal -->
-![Banner Academia](https://ruta-de-tu-banner/banner.png)
+
+---![28e33347-7735-4555-ab4c-0e8ca0cc3404](https://github.com/user-attachments/assets/78f789d9-4795-4704-8397-7c6dad390945)
 
 <h1 align="center">🚀 Bienvenido a [Nombre de la Academia] </h1>
 <h3 align="center">Formando profesionales en las tecnologías más demandadas del mercado</h3>
 
----
+
 
 ## 🌟 Nuestra misión
 Impulsar a estudiantes y profesionales a **dominar las tecnologías más solicitadas** a través de formación práctica, proyectos reales y acompañamiento personalizado.
