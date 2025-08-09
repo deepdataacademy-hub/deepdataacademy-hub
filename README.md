@@ -42,7 +42,7 @@ Ser la comunidad líder en **formación tecnológica en habla hispana**.
 
 ## 🌐 Conéctate con nosotros
 
-[![Web](https://img.shields.io/badge/Web-Academia.com-blue?style=for-the-badge&logo=google-chrome)](https://deepDataAcademy.com)
+[![Web](https://img.shields.io/badge/Web-DeepDataAcademy.com-blue?style=for-the-badge&logo=google-chrome)](https://deepDataAcademy.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=for-the-badge&logo=youtube)](https://youtube.com/DeepDataAcademy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Página-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/DeepDataAcademy)
 [![Discord](https://img.shields.io/badge/Discord-Comunidad-purple?style=for-the-badge&logo=discord)](https://discord.gg/DeepDataAcademy)
